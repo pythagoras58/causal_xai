@@ -11,12 +11,12 @@ setup(
         'scipy',
         'matplotlib',
     ],
-    author='Your Name/Team Name',
-    author_email='your.email@example.com',
+    author='Danso Solomon Danquah',
+    author_email='solomondanso58@gmail.com',
     description='Causal Explainability for AI Models',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/your_repo/causal_xai', # Placeholder
+    url='https://github.com/pythagoras58/causal_xai', # Placeholder
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
